@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				444,
+				35
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Dogdedloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				444,
+				35
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Dog_ded_confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				592,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Dog die"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dog_",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dog",
+	"flip_x": true,
+	"healthbar_colors": [
+		214,
+		137,
+		75
+	],
+	"camera_position": [
+		550,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

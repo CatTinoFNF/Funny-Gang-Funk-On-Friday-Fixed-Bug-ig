@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dog idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-128,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dog left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dog down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dog up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dog right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Dleftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-36
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Ddownmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				-23
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Dupmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-122,
+				-2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Drightmiss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				444,
+				35
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Dogdedloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				444,
+				35
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Dog_ded_confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				592,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Dog die"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dog_",
+	"position": [
+		200,
+		300
+	],
+	"healthicon": "dog",
+	"flip_x": true,
+	"healthbar_colors": [
+		214,
+		137,
+		75
+	],
+	"camera_position": [
+		280,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

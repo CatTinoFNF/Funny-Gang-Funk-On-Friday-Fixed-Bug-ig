@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-268
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-263
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sal left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-290
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sal down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-269
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sal up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-247
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sal right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sal",
+	"position": [
+		300,
+		90
+	],
+	"healthicon": "Sal",
+	"flip_x": false,
+	"healthbar_colors": [
+		78,
+		0,
+		255
+	],
+	"camera_position": [
+		-10,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

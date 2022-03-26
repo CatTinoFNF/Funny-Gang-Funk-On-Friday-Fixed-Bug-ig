@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Piscy idle"
+		},
+		{
+			"offsets": [
+				5,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Piscy left"
+		},
+		{
+			"offsets": [
+				5,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Piscy down"
+		},
+		{
+			"offsets": [
+				5,
+				97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Piscy up"
+		},
+		{
+			"offsets": [
+				5,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Piscy right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Piss",
+	"position": [
+		70,
+		380
+	],
+	"healthicon": "sal",
+	"flip_x": false,
+	"healthbar_colors": [
+		113,
+		151,
+		189
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
