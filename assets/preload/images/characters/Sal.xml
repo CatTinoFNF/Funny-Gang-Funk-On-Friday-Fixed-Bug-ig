@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sal.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sal down0000" x="0" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0001" x="423" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0002" x="846" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0003" x="1269" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0004" x="1692" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0005" x="2115" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0006" x="2538" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0007" x="2961" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0008" x="3384" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0009" x="3807" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0010" x="4230" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0011" x="4653" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0012" x="5076" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0013" x="5499" y="0" width="423" height="458"/>
+	<SubTexture name="Sal down0014" x="5922" y="0" width="423" height="458"/>
+	<SubTexture name="Sal idle 0000" x="6345" y="0" width="440" height="476"/>
+	<SubTexture name="Sal idle 0001" x="6785" y="0" width="440" height="476"/>
+	<SubTexture name="Sal idle 0002" x="7225" y="0" width="440" height="476"/>
+	<SubTexture name="Sal idle 0003" x="7665" y="0" width="440" height="476"/>
+	<SubTexture name="Sal idle 0004" x="0" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0005" x="440" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0006" x="880" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0007" x="1320" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0008" x="1760" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0009" x="2200" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0010" x="2640" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0011" x="3080" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0012" x="3520" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0013" x="3960" y="476" width="440" height="476"/>
+	<SubTexture name="Sal idle 0014" x="4400" y="476" width="440" height="476"/>
+	<SubTexture name="Sal left0000" x="4840" y="476" width="465" height="481"/>
+	<SubTexture name="Sal left0001" x="5305" y="476" width="465" height="481"/>
+	<SubTexture name="Sal left0002" x="5770" y="476" width="465" height="481"/>
+	<SubTexture name="Sal left0003" x="6235" y="476" width="465" height="481"/>
+	<SubTexture name="Sal left0004" x="6700" y="476" width="465" height="481"/>
+	<SubTexture name="Sal left0005" x="7165" y="476" width="465" height="481"/>
+	<SubTexture name="Sal left0006" x="7630" y="476" width="465" height="481"/>
+	<SubTexture name="Sal left0007" x="0" y="957" width="465" height="481"/>
+	<SubTexture name="Sal left0008" x="465" y="957" width="465" height="481"/>
+	<SubTexture name="Sal left0009" x="930" y="957" width="465" height="481"/>
+	<SubTexture name="Sal left0010" x="1395" y="957" width="465" height="481"/>
+	<SubTexture name="Sal left0011" x="1860" y="957" width="465" height="481"/>
+	<SubTexture name="Sal left0012" x="2325" y="957" width="465" height="481"/>
+	<SubTexture name="Sal left0013" x="2790" y="957" width="465" height="481"/>
+	<SubTexture name="Sal left0014" x="3255" y="957" width="465" height="481"/>
+	<SubTexture name="Sal right0000" x="3720" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0001" x="4190" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0002" x="4660" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0003" x="5130" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0004" x="5600" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0005" x="6070" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0006" x="6540" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0007" x="7010" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0008" x="7480" y="957" width="470" height="517"/>
+	<SubTexture name="Sal right0009" x="0" y="1474" width="470" height="517"/>
+	<SubTexture name="Sal right0010" x="470" y="1474" width="470" height="517"/>
+	<SubTexture name="Sal right0011" x="940" y="1474" width="470" height="517"/>
+	<SubTexture name="Sal right0012" x="1410" y="1474" width="470" height="517"/>
+	<SubTexture name="Sal right0013" x="1880" y="1474" width="470" height="517"/>
+	<SubTexture name="Sal right0014" x="2350" y="1474" width="470" height="517"/>
+	<SubTexture name="Sal up0000" x="2820" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0001" x="3256" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0002" x="3692" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0003" x="4128" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0004" x="4564" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0005" x="5000" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0006" x="5436" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0007" x="5872" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0008" x="6308" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0009" x="6744" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0010" x="7180" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0011" x="7616" y="1474" width="436" height="500"/>
+	<SubTexture name="Sal up0012" x="0" y="1991" width="436" height="500"/>
+	<SubTexture name="Sal up0013" x="436" y="1991" width="436" height="500"/>
+	<SubTexture name="Sal up0014" x="872" y="1991" width="436" height="500"/>
+</TextureAtlas>
