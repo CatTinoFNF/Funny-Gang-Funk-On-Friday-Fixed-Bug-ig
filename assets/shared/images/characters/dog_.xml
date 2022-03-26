@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dog_.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ddownmiss0000" x="0" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0001" x="0" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0002" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0003" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0004" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0005" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0006" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0007" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0008" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0009" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0010" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0011" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0012" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Ddownmiss0013" x="643" y="0" width="643" height="582"/>
+	<SubTexture name="Dleftmiss0000" x="1286" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0001" x="1286" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0002" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0003" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0004" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0005" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0006" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0007" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0008" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0009" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0010" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0011" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dleftmiss0012" x="1968" y="0" width="682" height="609"/>
+	<SubTexture name="Dog die0000" x="2650" y="0" width="1363" height="736"/>
+	<SubTexture name="Dog die0001" x="2650" y="0" width="1363" height="736"/>
+	<SubTexture name="Dog die0002" x="4013" y="0" width="1363" height="736"/>
+	<SubTexture name="Dog die0003" x="4013" y="0" width="1363" height="736"/>
+	<SubTexture name="Dog die0004" x="4013" y="0" width="1363" height="736"/>
+	<SubTexture name="Dog die0005" x="5376" y="0" width="1363" height="736"/>
+	<SubTexture name="Dog die0006" x="6739" y="0" width="1363" height="736"/>
+	<SubTexture name="Dog die0007" x="6739" y="0" width="1363" height="736"/>
+	<SubTexture name="Dog die0008" x="0" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0009" x="0" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0010" x="1363" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0011" x="1363" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0012" x="1363" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0013" x="1363" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0014" x="2726" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0015" x="2726" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0016" x="2726" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0017" x="4089" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0018" x="5452" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0019" x="5452" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0020" x="5452" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0021" x="5452" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0022" x="4089" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0023" x="4089" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0024" x="4089" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0025" x="2726" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0026" x="1363" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0027" x="1363" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0028" x="1363" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0029" x="1363" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0030" x="2726" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0031" x="2726" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0032" x="4089" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0033" x="6815" y="736" width="1363" height="736"/>
+	<SubTexture name="Dog die0034" x="0" y="1472" width="1363" height="736"/>
+	<SubTexture name="Dog die0035" x="1363" y="1472" width="1363" height="736"/>
+	<SubTexture name="Dog die0036" x="2726" y="1472" width="1363" height="736"/>
+	<SubTexture name="Dog die0037" x="2726" y="1472" width="1363" height="736"/>
+	<SubTexture name="Dog die0038" x="4089" y="1472" width="1363" height="736"/>
+	<SubTexture name="Dog die0039" x="5452" y="1472" width="1363" height="736"/>
+	<SubTexture name="Dog die0040" x="6815" y="1472" width="1363" height="736"/>
+	<SubTexture name="Dog die0041" x="6815" y="1472" width="1363" height="736"/>
+	<SubTexture name="Dog die0042" x="0" y="2208" width="1363" height="736"/>
+	<SubTexture name="Dog die0043" x="1363" y="2208" width="1363" height="736"/>
+	<SubTexture name="Dog die0044" x="1363" y="2208" width="1363" height="736"/>
+	<SubTexture name="Dog die0045" x="2726" y="2208" width="1363" height="736"/>
+	<SubTexture name="Dog die0046" x="4089" y="2208" width="1363" height="736"/>
+	<SubTexture name="Dog die0047" x="5452" y="2208" width="1363" height="736"/>
+	<SubTexture name="Dog die0048" x="6815" y="2208" width="1363" height="736"/>
+	<SubTexture name="Dog die0049" x="6815" y="2208" width="1363" height="736"/>
+	<SubTexture name="Dog die0050" x="0" y="2944" width="1363" height="736"/>
+	<SubTexture name="Dog die0051" x="0" y="2944" width="1363" height="736"/>
+	<SubTexture name="Dog die0052" x="0" y="2944" width="1363" height="736"/>
+	<SubTexture name="Dog die0053" x="1363" y="2944" width="1363" height="736"/>
+	<SubTexture name="Dog die0054" x="2726" y="2944" width="1363" height="736"/>
+	<SubTexture name="Dog die0055" x="4089" y="2944" width="1363" height="736"/>
+	<SubTexture name="Dog die0056" x="4089" y="2944" width="1363" height="736"/>
+	<SubTexture name="Dog_ded_confirm0000" x="5452" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0001" x="5452" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0002" x="5452" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0003" x="5452" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0004" x="6620" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0005" x="0" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0006" x="0" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0007" x="0" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0008" x="1168" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0009" x="1168" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0010" x="2336" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0011" x="2336" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0012" x="3504" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0013" x="3504" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dog_ded_confirm0014" x="3504" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0000" x="5452" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0001" x="5452" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0002" x="5452" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0003" x="5452" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0004" x="6620" y="2944" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0005" x="0" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0006" x="0" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0007" x="0" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0008" x="1168" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0009" x="1168" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0010" x="2336" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0011" x="2336" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0012" x="3504" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0013" x="3504" y="3680" width="1168" height="652"/>
+	<SubTexture name="Dogdedloop0014" x="3504" y="3680" width="1168" height="652"/>
+	<SubTexture name="Drightmiss0000" x="4672" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0001" x="4672" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0002" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0003" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0004" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0005" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0006" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0007" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0008" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0009" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0010" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0011" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Drightmiss0012" x="5316" y="3680" width="644" height="616"/>
+	<SubTexture name="Dupmiss0000" x="5960" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0001" x="5960" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0002" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0003" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0004" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0005" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0006" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0007" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0008" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0009" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0010" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0011" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="Dupmiss0012" x="6639" y="3680" width="679" height="597"/>
+	<SubTexture name="dog down0000" x="7318" y="3680" width="687" height="619"/>
+	<SubTexture name="dog down0001" x="7318" y="3680" width="687" height="619"/>
+	<SubTexture name="dog down0002" x="0" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0003" x="0" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0004" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0005" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0006" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0007" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0008" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0009" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0010" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0011" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0012" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0013" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog down0014" x="687" y="4332" width="687" height="619"/>
+	<SubTexture name="dog idle0000" x="1374" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0001" x="1374" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0002" x="2111" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0003" x="2111" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0004" x="2848" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0005" x="2848" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0006" x="3585" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0007" x="3585" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0008" x="4322" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0009" x="5059" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0010" x="5059" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0011" x="5059" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0012" x="5059" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0013" x="5059" y="4332" width="737" height="618"/>
+	<SubTexture name="dog idle0014" x="5059" y="4332" width="737" height="618"/>
+	<SubTexture name="dog left0000" x="5796" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0001" x="5796" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0002" x="6490" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0003" x="6490" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0004" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0005" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0006" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0007" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0008" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0009" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0010" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0011" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0012" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0013" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog left0014" x="7184" y="4332" width="694" height="618"/>
+	<SubTexture name="dog right0000" x="0" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0001" x="0" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0002" x="668" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0003" x="668" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0004" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0005" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0006" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0007" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0008" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0009" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0010" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0011" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0012" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0013" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog right0014" x="1336" y="4951" width="668" height="616"/>
+	<SubTexture name="dog up0000" x="2004" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0001" x="2004" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0002" x="2605" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0003" x="2605" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0004" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0005" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0006" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0007" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0008" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0009" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0010" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0011" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0012" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0013" x="3206" y="4951" width="601" height="656"/>
+	<SubTexture name="dog up0014" x="3206" y="4951" width="601" height="656"/>
+</TextureAtlas>
